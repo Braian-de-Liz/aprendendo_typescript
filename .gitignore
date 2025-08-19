@@ -12,7 +12,7 @@ yarn-debug.log
 .env.test
 .env.production
 
-# Build
+# Build (arquivos GERADOS pelo TypeScript)
 /dist
 /build
 /out
